@@ -47,7 +47,7 @@
 
 #### Transmitter  
 <div align="top">
-<img src="https://media.discordapp.net/attachments/947816618824724480/976429760030846996/RPReplay_Final1652868955.gif?width=755&height=1227" align="center" height="250" width="" />
+<img src="https://media.discordapp.net/attachments/947816618824724480/976460949185765406/RPReplay_Final1652868955.gif" align="center" height="250" width="" />
 </div>  
   
 
@@ -55,9 +55,10 @@
 
 #### Receiver  
 <div align="top">
-<img src="https://media.discordapp.net/attachments/947816618824724480/976429789407768576/RPReplay_Final1652868653.gif" align="center" height="250" width="" />
+<img src="https://media.discordapp.net/attachments/947816618824724480/976460948636332032/RPReplay_Final1652868653.gif" align="center" height="250" width="" />
 </div>
 
+  
 </td></tr></table>
 
 <div align="center">If you found this tool to be helpful, then show your support by hitting that ⭐️ button on the GitHub repo
