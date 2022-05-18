@@ -1,4 +1,4 @@
-# <div align="center">Partage Wi-Fi</div>  
+# <div align="center">Share Wi-Fi</div>  
   
 
 #### <div align="center">Share your wifi, simply, safely.</div>  
@@ -28,7 +28,7 @@
 - 🔒Secure: No more giving out your plain Wi-Fi password  
   
 
-- ✍️ Language: French and English (soon)  
+- ✍️ Language: 🇫🇷 and 🇬🇧 
   
 
 - ⚠️ Compatibility: Works only with Wi-Fi configured in WPA  
