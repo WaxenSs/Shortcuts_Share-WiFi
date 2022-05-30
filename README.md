@@ -20,7 +20,7 @@ Simply allows you to share your Wi-Fi access from a QR code. No need to retype y
 - ✍️ Language: 🇫🇷 and 🇬🇧 
 - ⚠️ Compatibility: Works only with Wi-Fi configured in WPA  
 - ‼️ Require: [Shortcuts](https://apps.apple.com/fr/app/raccourcis/id1462947752) app  
-- 📝 You can now see the password in raw form (this will also be automatically copied to the clipboard)
+- 📝 You can see the password in raw form (this will also be automatically copied to the clipboard)
 - ✌️2 versions of shortcuts:
    <br/>**Pro:** For people with their network separated into several Wi-Fi *(Guest, 2GHz and 5GHz)*.
 This version allows you to share them all individually.
